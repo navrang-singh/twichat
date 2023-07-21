@@ -1,14 +1,16 @@
+
 # twichat
 
 ### A social media app like twitter with flutter , appwrite and riverpod as a state management and MVC structure. Appwrite is used as a backend-as-a-service . App have auth feature and uses email-password as a auth .  App have also used realtime api provided by appwrite for realtime updates . 
 
 ### Screens
-![1](https://github.com/navrang-singh/twitchat/assets/95895090/03e3cc97-d567-413c-b617-4345ef4a2b2a)
-![2](https://github.com/navrang-singh/twitchat/assets/95895090/221813da-2dee-4c26-a730-d6d7dae71047)
-![3](https://github.com/navrang-singh/twitchat/assets/95895090/71ba57d2-9216-4090-b1d5-0e701eedaf90)
-![4](https://github.com/navrang-singh/twitchat/assets/95895090/a6b84473-35b3-4c8b-a012-a24cb2625403)
 
+![1](https://github.com/navrang-singh/twichat/assets/95895090/37e66fa2-794d-4a8d-b5c8-8e1e9a562349)
+![2](https://github.com/navrang-singh/twichat/assets/95895090/1dacf801-4073-4d93-bb26-404428fad107)
+![3](https://github.com/navrang-singh/twichat/assets/95895090/b8d6d943-8f8a-4c57-ae0d-9c670bb1038b)
+![4](https://github.com/navrang-singh/twichat/assets/95895090/18c6afd1-b76f-45dc-abc6-d11fce7b1568)
 
 ## demo gif
-![abc (2)](https://github.com/navrang-singh/twitchat/assets/95895090/fd8d3a07-5e9c-486e-b7b9-47e2a3ee1350)
+![abc](https://github.com/navrang-singh/twichat/assets/95895090/736e6617-645c-4de5-9717-6b0a2b83c2a6)
+
 
